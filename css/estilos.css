@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/*----------------------------------------
+SOBREESCRIBIENDO  LOS ESTILOS DE BOOTSTRAP
+------------------------------------------*/
+.bg-primary {
+  background-color: #ff401c !important; }
+
+
+html {
+  font-size: 13px; }
+
+body {
+  background-color: #EEEEEE;
+  display: flex;
+  line-height: inherit;
+  font-family: 'Open Sans', sans-serif; }
+
+.img-perfil{
+  margin-left: 30px;
+}
+
+.text-perfil{
+  width: 100px;
+}
+
+hr{
+  background-color: white;
+  width: 160px;
+}
+
+.informacion-perfil{
+  background: BLACK;
+}
+
+.info{
+  background: #EEEEEE;
+  margin-bottom: 550px;
+  padding-top: 4px;
+}
+
+info-nombre{
+  background: #EEEEEE;
+}
+
+.info-principal{
+  background: white;
+  margin-top: 550px;
+}
